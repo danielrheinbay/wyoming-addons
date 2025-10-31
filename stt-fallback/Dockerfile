@@ -14,10 +14,7 @@ RUN \
         python3-pip \
         python3-dev \
         python3-venv \
-#        libopenblas0 \
-#        libencode-perl \
         curl \
-#        build-essential \
         libarchive-tools \
     \
     && mkdir ./tools \
