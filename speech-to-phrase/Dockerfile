@@ -4,7 +4,7 @@ ARG TARGETVARIANT
 
 # Install speech-to-phrase
 WORKDIR /usr/src
-ENV SPEECH_TO_PHRASE_VERSION=1.2.0
+ENV SPEECH_TO_PHRASE_VERSION=1.4.3
 
 RUN \
     apt-get update \

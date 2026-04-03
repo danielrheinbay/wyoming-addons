@@ -1,6 +1,6 @@
 .PHONY: local run update
 
-VERSION := 1.2.0
+VERSION := 1.4.3
 TAG := rhasspy/wyoming-speech-to-phrase
 PLATFORMS := linux/amd64,linux/arm64
 HOST := 0.0.0.0
